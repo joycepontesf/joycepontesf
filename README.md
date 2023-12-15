@@ -1,5 +1,5 @@
-## Oi, me chamo Joyce! 👋
-Sou de Recife/PE, apaixonada por criar experiências positivas para clientes. Tenho encontrado na Qualidade de Software desafios que me inspiram a ser uma profissional cada vez melhor e apta a contribuir na criação de soluções aderentes ao universo da Tecnologia.
+## Oi, eu sou a Joyce! 👋
+Sou uma pessoa apaixonada por fazer parte do processo de criação de experiências positivas para clientes. Tenho encontrado na Qualidade de Software desafios que me inspiram a ser uma profissional cada vez melhor e apta a contribuir na criação de soluções aderentes ao universo da Tecnologia.
 
 </br>
 
