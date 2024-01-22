@@ -1,11 +1,12 @@
 ## Oi, eu sou a Joyce! 👋
-Sou uma pessoa apaixonada por fazer parte do processo de criação de experiências positivas para clientes. Tenho encontrado na Qualidade de Software desafios que me inspiram a ser uma profissional cada vez melhor e apta a contribuir na criação de soluções aderentes ao universo da Tecnologia.
+Atuo há mais de 9 anos na área de relacionamento com o cliente. Após ouvir frequentemente sobre a falta de qualidade em produtos e serviços, iniciei a desafiadora, porém gratificante, transição de carreira! Agora, sou uma profissional QA com experiência em metodologias ágeis, processos, e rotinas. Possuo habilidades na criação e execução de testes manuais, exploratórios e automatizados para API Rest e UI, utilizando ferramentas como Cypress, Postman, JUnit, WebDriver e RestAssured. Além disso, tenho conhecimentos em versionamento de código, CI/CD, MySQL, Docker, Java, JavaScript, Nodejs e NPM.
 
-</br>
+Para saber mais sobre mim:
 
-<p>📚 Atualmente estou fazendo a formação em Engenheiro de Qualidade de Sofware da EBAC;</p>
-<p>👩‍💻 Minhas experiências anteriores foram na área de relacionamento com o cliente;</p>
-<p>😎 Já atuei em empresas de Educação, Telefonia e numa Startup de pagamentos recorrentes.</p>
+- Acesse meu [portfólio](https://joycepontes.notion.site/Portf-lio-a9ba10479a3847868e52b6659e435883?pvs=4)
+- Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/joycepontes/)
+- Adoro descobrir novos lugares para comer
+- Sou apaixonada por animais de estimação
 
 </br>
 
@@ -18,4 +19,4 @@ Sou uma pessoa apaixonada por fazer parte do processo de criação de experiênc
 
 
 ### Contato
-Você pode marcar um papo comigo através do meu [Calendly](https://calendly.com/joycepontesf/cafezinho?month=2023-08).
+Você pode marcar um papo comigo através do meu [calendly](https://calendly.com/joycepontesf/cafezinho).
