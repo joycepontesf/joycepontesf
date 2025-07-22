@@ -1,12 +1,11 @@
 ## Oi, eu sou a Joyce! 👋
-Após ouvir frequentemente sobre a falta de qualidade em produtos e serviços, atuando há mais de 9 anos na área de relacionamento com o cliente, iniciei a desafiadora, porém gratificante, transição de carreira! Agora, sou uma profissional QA com experiência em metodologias ágeis, processos e rotinas da área de Qualidade, reporte de bugs via JIRA. Possuo habilidades na criação e execução de testes manuais, exploratórios e automatizados para API Rest e UI, utilizando ferramentas como Cypress, Postman, JUnit, WebDriver e RestAssured. Além disso, sou capaz de desenvolver testes de performance com uso de JMeter e aplicar meus conhecimentos em versionamento de código, CI/CD, MySQL, Docker, Java, JavaScript, Node.js e npm.
+Após ouvir frequentemente sobre a falta de qualidade em produtos e serviços, atuando há mais de 9 anos na área de relacionamento com o cliente, iniciei a desafiadora, porém gratificante, transição de carreira! Agora, atuo como Analista de QA, colaborando com times ágeis, participando ativamente de cerimônias baseadas no framework Scrum (Planning, Daily, Review, Retrospective) e apoiando equipes na implementação de processos de qualidade em todas as fases do ciclo de desenvolvimento de software (SDLC).
 
-Para saber mais sobre mim:
+Possuo experiência em revisão de requisitos com desenvolvedores e time de produtos, realização de testes de integração entre sistemas, elaboração e execução de testes manuais, funcionais e não funcionais, e de regressão em sistemas Web, Desktop e APIs (REST/GraphQL) com Postman, reporte e gerenciamento de bugs através da plataforma Azure DevOps. 
 
-- Sai de uma cidade com 30 mil habitantes e vim para uma com mais de 1.400.000
-- Adoro descobrir novos lugares para comer
-- Sou apaixonada por animais de estimação
-- Você pode ver alguns dos meus projetos no meu [portfólio](https://joycepontes.notion.site/Portf-lio-a9ba10479a3847868e52b6659e435883?pvs=4)
+Além disso, tenho estudado sobre as linguagens C#, JavaScript e TypeScript, framework de testes Playwright e Cypress. Além de ter foco em desenvolver minha comunicação em Inglês e Espanhol.
+
+Alguns dos projetos que desenvolvi/participei estão disponíveis em meu [portfólio](https://joycepontes.notion.site/Portf-lio-a9ba10479a3847868e52b6659e435883?pvs=4)
 
 ### Tecnologias e Ferramentas
 <div style="text-align:center;">
@@ -18,6 +17,7 @@ Para saber mais sobre mim:
     <img style="display: inline-block;" align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img style="display: inline-block;" align="center" alt="-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img style="display: inline-block;" align="center" alt="-Jira" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+    <img style="display: inline-block;" align="center" alt="-Azure DevOps" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azuredevops/azuredevops-plain.svg" />    
 </div>
 
 
